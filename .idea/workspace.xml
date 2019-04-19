@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d373ed-ba47-4562-b44f-93373a88e1a6" name="Default Changelist" comment="" />
+    <list default="true" id="99d373ed-ba47-4562-b44f-93373a88e1a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/som_1301160436.py" beforeDir="false" afterPath="$PROJECT_DIR$/som_1301160436.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +44,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="667003566">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1289" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1289" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/som_1301160436.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+            <state relative-caret-position="151">
+              <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <marker date="1555697740662" expanded="true" signature="337:475" ph="..." />
+                <marker date="1555697740662" expanded="true" signature="795:839" ph="..." />
+                <marker date="1555697740662" expanded="true" signature="850:1934" ph="..." />
+                <marker date="1555697740662" expanded="true" signature="1791:1792" ph="..." />
               </folding>
             </state>
           </provider>
@@ -63,6 +89,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/03.download_file.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -292,10 +321,14 @@
     <entry file="file://$USER_HOME$/Downloads/03.download_file.py" />
     <entry file="file://$PROJECT_DIR$/som_1301160436.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+        <state relative-caret-position="151">
+          <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+            <marker date="1555697740662" expanded="true" signature="337:475" ph="..." />
+            <marker date="1555697740662" expanded="true" signature="795:839" ph="..." />
+            <marker date="1555697740662" expanded="true" signature="850:1934" ph="..." />
+            <marker date="1555697740662" expanded="true" signature="1791:1792" ph="..." />
           </folding>
         </state>
       </provider>
